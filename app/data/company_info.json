@@ -1,0 +1,30 @@
+{
+  "name": "EnergyWise S.p.A.",
+  "founded": 2015,
+  "headquarters": "Milano, Italia",
+  "mission": "Fornire energia sostenibile e accessibile, aiutando i clienti a ottimizzare i consumi e ridurre l'impatto ambientale.",
+  "values": [
+    "Sostenibilità ambientale",
+    "Innovazione tecnologica",
+    "Trasparenza nei prezzi",
+    "Eccellenza nel servizio clienti",
+    "Responsabilità sociale"
+  ],
+  "certifications": [
+    "ISO 9001:2015 - Gestione della Qualità",
+    "ISO 14001:2015 - Gestione Ambientale",
+    "ISO 50001:2018 - Gestione dell'Energia",
+    "B Corp Certification"
+  ],
+  "contact": {
+    "customer_service": "800.123.456",
+    "email": "info@energywise.it",
+    "website": "www.energywise.it",
+    "social_media": {
+      "facebook": "EnergyWiseItalia",
+      "instagram": "@energywise_it",
+      "linkedin": "EnergyWise-SpA",
+      "twitter": "@EnergyWise_IT"
+    }
+  }
+}

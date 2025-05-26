@@ -1,21 +1,15 @@
 from flask import Flask
-from flask_cors import CORS
 import os
-from dotenv import load_dotenv
+from .config import Config
 
-load_dotenv()
-
-def create_app():
+def create_app(config_class=Config):
     app = Flask(__name__)
-    CORS(app)
+    app.config.from_object(config_class)
     
-    app.config['UPLOAD_FOLDER'] = os.getenv('UPLOAD_FOLDER', 'uploads')
-    app.config['MAX_CONTENT_LENGTH'] = int(os.getenv('MAX_CONTENT_LENGTH', 16 * 1024 * 1024))
-    
-    # Assicurati che la cartella uploads esista
+    # Crea la directory di upload se non esiste
     os.makedirs(os.path.join(os.path.dirname(os.path.abspath(__file__)), app.config['UPLOAD_FOLDER']), exist_ok=True)
     
-    # Importa e registra le routes
+    # Registra i blueprint
     from app.routes import main_bp
     app.register_blueprint(main_bp)
     

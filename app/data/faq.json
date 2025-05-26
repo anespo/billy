@@ -1,0 +1,34 @@
+[
+  {
+    "question": "Come posso attivare una fornitura con EnergyWise?",
+    "answer": "Puoi attivare una fornitura online sul nostro sito, chiamando il numero verde 800.123.456 o visitando uno dei nostri punti vendita. Avrai bisogno del tuo codice fiscale, di un documento d'identità e dei dati della fornitura attuale (POD per l'elettricità e PDR per il gas)."
+  },
+  {
+    "question": "Quanto tempo richiede l'attivazione di una nuova fornitura?",
+    "answer": "L'attivazione di una nuova fornitura richiede generalmente da 2 a 4 settimane lavorative, a seconda del tipo di passaggio (switch da altro fornitore o nuova attivazione)."
+  },
+  {
+    "question": "Come posso pagare la bolletta?",
+    "answer": "Puoi pagare la bolletta tramite addebito diretto su conto corrente (SEPA), carta di credito, bollettino postale o tramite la nostra app. Offriamo anche la possibilità di rateizzare i pagamenti per importi superiori a 100€."
+  },
+  {
+    "question": "Cosa devo fare in caso di guasto o interruzione di corrente?",
+    "answer": "In caso di guasto o interruzione, verifica prima se il problema riguarda solo il tuo appartamento o l'intero edificio. Per problemi sulla rete di distribuzione, contatta il numero di emergenza del distributore locale. Per problemi relativi alla tua fornitura, contatta il nostro servizio clienti al numero 800.123.456."
+  },
+  {
+    "question": "EnergyWise fornisce energia rinnovabile?",
+    "answer": "Sì, tutti i nostri piani elettrici includono una percentuale di energia da fonti rinnovabili. I piani 'Eco Plus' e 'Solar Home' garantiscono il 100% di energia da fonti rinnovabili certificate."
+  },
+  {
+    "question": "Come posso leggere la mia bolletta?",
+    "answer": "La bolletta EnergyWise è strutturata in sezioni: dati cliente e fornitura, riepilogo importi, dettaglio consumi, dettaglio costi e informazioni utili. Puoi trovare una guida dettagliata nella sezione 'Supporto' del nostro sito o utilizzare il nostro chatbot per un'analisi personalizzata."
+  },
+  {
+    "question": "Posso monitorare i miei consumi in tempo reale?",
+    "answer": "Sì, tramite l'app EnergyWise o l'area clienti sul nostro sito web puoi monitorare i tuoi consumi quasi in tempo reale se disponi di un contatore intelligente. Altrimenti, potrai visualizzare i dati di consumo aggiornati mensilmente."
+  },
+  {
+    "question": "Come posso risparmiare energia?",
+    "answer": "Offriamo diversi strumenti per aiutarti a risparmiare: report personalizzati sui consumi, consigli di efficienza energetica, dispositivi smart per l'ottimizzazione e consulenze energetiche. Inoltre, sul nostro blog pubblichiamo regolarmente articoli con suggerimenti pratici per ridurre i consumi."
+  }
+]

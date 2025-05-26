@@ -1,0 +1,34 @@
+[
+  {
+    "id": "summer-promo-2025",
+    "name": "Promozione Estate 2025",
+    "description": "Attiva una fornitura entro il 31/07/2025 e ricevi uno sconto del 30% per i primi 3 mesi.",
+    "valid_until": "2025-07-31",
+    "applicable_products": ["basic-home", "eco-plus", "dual-home"],
+    "terms": "Lo sconto è applicabile solo ai nuovi clienti. Non cumulabile con altre promozioni."
+  },
+  {
+    "id": "friends-referral",
+    "name": "Porta un Amico",
+    "description": "Ricevi 50€ di sconto in bolletta per ogni amico che attiva una fornitura con EnergyWise.",
+    "valid_until": "ongoing",
+    "applicable_products": ["all"],
+    "terms": "Il bonus viene erogato dopo il primo mese di fornitura attiva dell'amico. Massimo 10 amici all'anno."
+  },
+  {
+    "id": "digital-billing",
+    "name": "Bolletta Digitale",
+    "description": "Passa alla bolletta digitale e ricevi uno sconto di 2€ su ogni fattura.",
+    "valid_until": "ongoing",
+    "applicable_products": ["all"],
+    "terms": "Lo sconto viene applicato automaticamente a partire dalla prima bolletta digitale."
+  },
+  {
+    "id": "solar-2025",
+    "name": "Solare 2025",
+    "description": "Installa un impianto fotovoltaico entro il 31/12/2025 e ricevi una batteria di accumulo da 5kWh in omaggio.",
+    "valid_until": "2025-12-31",
+    "applicable_products": ["solar-home"],
+    "terms": "Promozione valida per impianti di potenza minima 4kW. Installazione della batteria inclusa."
+  }
+]
