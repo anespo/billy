@@ -33,4 +33,8 @@ Thumbs.db
 .ipynb_checkpoints
 
 # Local development settings
-*.log 
+*.log
+
+# Application specific
+app/uploads/
+*.pdf 
